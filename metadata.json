@@ -1,0 +1,6 @@
+{
+  "name": "FoodShare - Food Donation Marketplace",
+  "description": "A food rescue marketplace connecting donors (restaurants, caterers, households) with NGOs to eliminate food waste and distribute surplus meals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
